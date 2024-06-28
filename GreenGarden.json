@@ -1,0 +1,14 @@
+[
+    {
+        "Nombre": "jose",
+        "Monto": "2000",
+        "Id": "1",
+        "Productos": "abono"
+    },
+    {
+        "Nombre": "ted",
+        "Monto": "2016",
+        "Id": "2",
+        "Productos": "rosa roja"
+    }
+]
